@@ -1,0 +1,28 @@
+.slice__i-aqy{
+  width: 31px;
+  height: 31px;
+  background-image: url(./slice/i-aqy.png);
+  -webkit-background-size: 31px 31px;
+  background-size: 31px 31px;
+}
+.slice__i-ls{
+  width: 32px;
+  height: 32px;
+  background-image: url(./slice/i-ls.png);
+  -webkit-background-size: 32px 32px;
+  background-size: 32px 32px;
+}
+.slice__i-shsp{
+  width: 29px;
+  height: 29px;
+  background-image: url(./slice/i-shsp.png);
+  -webkit-background-size: 29px 29px;
+  background-size: 29px 29px;
+}
+.slice__i-txsp{
+  width: 31px;
+  height: 31px;
+  background-image: url(./slice/i-txsp.png);
+  -webkit-background-size: 31px 31px;
+  background-size: 31px 31px;
+}
